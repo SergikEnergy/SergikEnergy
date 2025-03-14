@@ -1,6 +1,6 @@
 ## Hi dear guests 👋
 
-**😃 I really happy to greet you on my acoount's page!**
+**😃 I really happy to greet you on my account's page!**
 
 # Front-end React Developer
 
